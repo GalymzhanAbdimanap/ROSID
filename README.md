@@ -1,5 +1,5 @@
-<img src="images/logo.PNG" width="150px" height="100px">
-# ROSID: Remote Sensing Satellite Data for Oil Spill Detection on Land
+<img src="images/logo.PNG" width="150px" height="100px"> ## ROSID: Remote Sensing Satellite Data for Oil Spill Detection on Land
+
 
 The ROSID dataset, designed for detecting onshore oil spills, is based on Landsat satellite imagery. It includes original images with 7 channels and corresponding annotations in GeoTIFF format. 
 Additionally, the dataset provides extracted images in RGB format, using channels 7 (SWIR), 4 (NIR), and 3 (Red). 
