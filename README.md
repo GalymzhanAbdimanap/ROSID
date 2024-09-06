@@ -1,4 +1,4 @@
-<img src="images/logo.PNG" width="150px" height="100px"> 
+<img src="images/logo.PNG" width="125px" height="100px"> 
 
 
 ## ROSID: Remote Sensing Satellite Data for Oil Spill Detection on Land
