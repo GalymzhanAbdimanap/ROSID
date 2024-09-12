@@ -12,3 +12,7 @@ We used the  [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)  to 
 **Step 3.** Сhange the dataset path in the file ```configs/_base_/datasets/oil_spill_320_320.py``` on your way. 
 
 ## Train
+```python tools/train.py configs/mask2former/mask2former_r50_8xb2-90k_cityscapes-512x1024.py```
+
+## Test
+```python tools/train.py configs/mask2former/mask2former_r50_8xb2-90k_cityscapes-512x1024.py work_dirs\mask2former_r50_8xb2-90k_cityscapes-512x1024\iter_40000.pth```
