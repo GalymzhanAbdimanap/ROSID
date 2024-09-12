@@ -27,4 +27,15 @@ python tools/train.py configs/mask2former/mask2former_r50_8xb2-90k_cityscapes-51
 python tools/test.py configs/mask2former/mask2former_r50_8xb2-90k_cityscapes-512x1024.py work_dirs\mask2former_r50_8xb2-90k_cityscapes-512x1024\iter_40000.pth
 ```
 
+## Inference
+```shell
+python inference.py
+```
+
 ## Postprocessing
+Combine fragments to image
+```shell
+python combine.py
+```
+
+
