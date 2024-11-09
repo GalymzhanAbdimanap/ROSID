@@ -40,7 +40,7 @@ The following are some sample of ROSID dataset(RGB):
 <img src="images/sample1.png" width="835px" height="290px">
 
 # ROSID Train
-The segmentation folder contains files for training and testing the ROCID dataset for semantic segmentation.
+The ```segmentation``` folder contains files for training and testing the ROCID dataset for semantic segmentation.
 
 We used the  [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)  to train the model.
 
