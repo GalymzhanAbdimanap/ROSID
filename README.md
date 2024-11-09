@@ -6,7 +6,7 @@
 
 The ROSID dataset, designed for detecting onshore oil spills, is based on Landsat satellite imagery. It includes original images with 7 channels and corresponding annotations in GeoTIFF format. 
 Additionally, the dataset provides extracted images in RGB format, using channels 7 (SWIR), 4 (NIR), and 3 (Red). 
-The dataset is structured similarly to the Cityscapes format and can be downloaded via the provided link:
+The dataset is structured similarly to the Cityscapes format and can be downloaded via the provided link and the password is: P@ssw0rd_ROSID2024$:
 
 - [ROSID(3 channels)](https://drive.google.com/file/d/1sWJqIoGd_1xaN0oRDz6ceOvcjD9w_EeM/view?usp=sharing)
 - [ROSID_SRC(7 channels)](https://drive.google.com/file/d/12h5gklZGlZvcjEnC-y7xSpF_XAQV5Yyb/view?usp=sharing)
