@@ -72,13 +72,17 @@ python tools/test.py configs/mask2former/mask2former_r50_8xb2-90k_cityscapes-512
 ## Citation and Contact
 Please consider to cite our papers when you use our dataset:
 ```
-@article{,
-  title={},
-  author={},
-  journal={},
-  pages={},
-  year={},
-  publisher={}
+@Article{es1348, 
+author="Nurseitov, Daniyar B. and Abdimanap, Galymzhan and Abdallah, Abdelrahman and Sagatdinova, Gulshat and Balakay, Larissa and Dedova, Tatyana and Rametov, Nurkuisa and Alimova, Anel", 
+title="ROSID: Remote Sensing Satellite Data for Oil Spill Detection on Land", 
+journal="Engineered Science", 
+year="2024", 
+volume="32", 
+pages="1348", 
+abstract="Oil spills on land pose significant environmental hazards, impacting ecosystems and human health. Effective detection and monitoring of these spills are critical for timely response efforts. This paper presents for the first time a ground truth dataset for onshore oil spill detection developed using Landsat imagery. The ground truth was implemented using aerial data. To demonstrate the utility of this dataset, we evaluated several state-of-the-art deep learning models, including DeepLabV3+, UNet, PSP-Net, DeepLabV3 and Mask2Former. Our experiments revealed significant insights into the models&rsquo; capabilities and limitations. Mask2Former and DeepLabV3+, in particular, showed the highest performance metrics. On the validation data, Mask2Former achieved an intersection over Union (IoU) of 72.69% and a F-score coefficient of 84.18%, while DeepLabV3+ achieved an IoU of 67.6% and a F-score coefficient of 80.67%. These results demonstrate the effectiveness of our dataset as a crucial tool for enhancing oil spill detection methodologies and advancing the application of artificial intelligence in ecological preservation and disaster management.", 
+issn="2576-9898", 
+doi="10.30919/es1348", 
+url="http://dx.doi.org/10.30919/es1348" 
 }
 ```
 
